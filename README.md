@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishmatiyara&label=Profile%20views&color=0e75b6&style=flat" alt="nitishmatiyara" /> </p>
 
-- 🔭 I’m currently working on **Patient-Record app**
+- 🔭 I’m currently working on **Stock Trading App**
 
 - 🌱 I’m currently learning **Advanced ReactJS & NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://www.nitishdecoder.tech](https://www.nitishdecoder.tech)
+- 👨‍💻 All of my projects are available at [https://www.nitishmatiyara.tech](https://www.nitishmatiyara.tech)
 
 - 📫 How to reach me **matiyaranitish@gmail.com**
 
