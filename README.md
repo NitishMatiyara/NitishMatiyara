@@ -79,7 +79,7 @@
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"
     alt="mongodb"
     width="40"
     height="40"
@@ -87,7 +87,7 @@
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     alt="nodejs"
     width="40"
     height="40"
@@ -103,7 +103,7 @@
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     alt="react"
     width="40"
     height="40"
