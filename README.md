@@ -53,6 +53,14 @@
     height="40"
   />
 </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
+    alt="express"
+    width="40"
+    height="40"
+  />
+</a>
 <a href="https://pugjs.org" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.worldvectorlogo.com/logos/pug.svg"
@@ -93,14 +101,7 @@
     height="40"
   />
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-    alt="express"
-    width="40"
-    height="40"
-  />
-</a>
+
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
@@ -117,7 +118,47 @@
     height="40"
   />
 </a>
-
+<a href="https://redis.com" target="_blank" rel="noreferrer">
+ 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"
+          
+    alt="redis"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"
+    alt="express"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://socket.io" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg"
+    alt="bootstrap"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
+    alt="css3"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
+    alt="firebase"
+    width="40"
+    height="40"
+  />
+</a>
 
  </p>
 
