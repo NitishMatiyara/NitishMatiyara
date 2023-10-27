@@ -43,7 +43,7 @@
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    src="https://www.vectorlogo.zone/logos/firebase/firebase-plain-wordmark.svg"
     alt="firebase"
     width="40"
     height="40"
@@ -51,7 +51,7 @@
 </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer">
   <img
-    src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+    src="https://www.vectorlogo.zone/logos/heroku/heroku-plain-wordmark.svg"
     alt="heroku"
     width="40"
     height="40"
@@ -87,7 +87,7 @@
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-watermark.svg"
     alt="nodejs"
     width="40"
     height="40"
@@ -103,7 +103,7 @@
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain-watermark.svg"
     alt="react"
     width="40"
     height="40"
