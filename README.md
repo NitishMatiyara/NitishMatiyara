@@ -119,9 +119,8 @@
   />
 </a>
 <a href="https://redis.com" target="_blank" rel="noreferrer">
- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"
-          
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"          
     alt="redis"
     width="40"
     height="40"
@@ -130,7 +129,7 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"
-    alt="express"
+    alt="mysql"
     width="40"
     height="40"
   />
@@ -138,7 +137,7 @@
 <a href="https://socket.io" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg"
-    alt="bootstrap"
+    alt="socket-io"
     width="40"
     height="40"
   />
@@ -146,7 +145,7 @@
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
-    alt="css3"
+    alt="git"
     width="40"
     height="40"
   />
@@ -154,7 +153,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
-    alt="firebase"
+    alt="docker"
     width="40"
     height="40"
   />
