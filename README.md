@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img
-    src="httpcdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"
     alt="bootstrap"
     width="40"
     height="40"
