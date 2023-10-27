@@ -43,16 +43,16 @@
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
     alt="firebase"
     width="40"
     height="40"
   />
 </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
+<a href="https://mui.com" target="_blank" rel="noreferrer">
   <img
-    src="https://www.vectorlogo.zone/logos/heroku/heroku-orignal-wordmark.svg"
-    alt="heroku"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+    alt="material-ui"
     width="40"
     height="40"
   />
@@ -87,7 +87,7 @@
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-watermark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
     alt="nodejs"
     width="40"
     height="40"
