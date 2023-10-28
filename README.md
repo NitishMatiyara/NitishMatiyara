@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishmatiyara&label=Profile%20views&color=0e75b6&style=flat" alt="nitishmatiyara" /> </p>
 
-- 🔭 I’m currently working on **Stock Trading App**
+- 🔭 I’m currently working on **S.O.L.I.D Principles & LLD**
 
 - 🌱 I’m currently learning **Advanced ReactJS & NodeJs**
 
