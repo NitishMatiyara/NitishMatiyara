@@ -40,20 +40,26 @@ https://github.com/NitishMatiyara/MERN-CHAT-APP
 
 ### 🛠 Tech Stack
 
-#### Frontend
-React • JavaScript • HTML5 • CSS3 • Sass • Material UI • Bootstrap
+#### 💻 Languages
+JavaScript (ES6+) • HTML5 • CSS3 • SQL
 
-#### Backend
-Node.js • Express.js • REST APIs • Authentication • Redis
+#### ⚛️ Frontend Development
+React.js • Material UI • Bootstrap • Sass • Responsive UI • Component Architecture
 
-#### Databases
-MongoDB • MySQL
+#### 🖥 Backend Development
+Node.js • Express.js • REST API Development • Authentication (JWT) • MVC Architecture
 
-#### Real-Time & Systems
-Socket.io • WebRTC • WebSockets
+#### 🗄 Databases & Caching
+MongoDB • MySQL • Redis
 
-#### DevOps & Tools
-Docker • Git • Firebase
+#### 🔌 Real-Time & Communication
+Socket.io • WebSockets • WebRTC • Live Presence Systems
+
+#### 🤖 AI & LLM Integration
+Groq API  • OpenAI • LLM Integration • Prompt Engineering • AI Chat Features
+
+#### ⚙️ DevOps & Tools
+Docker • Git • GitHub • Firebase
 
 ---
 
