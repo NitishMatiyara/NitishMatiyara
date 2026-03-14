@@ -17,7 +17,7 @@ Building scalable web applications, real-time platforms, and AI-powered products
 - 🚀 Experienced in **MERN stack, real-time systems, and distributed application design**  
 - 🤖 Recently building **AI-powered features using Groq / LLM APIs**  
 - 🧠 Currently exploring **System Design, SOLID principles, and Low Level Design (LLD)**  
-- 🌍 Portfolio: **https://www.nitishmatiyara.tech**  
+- 🌍 Portfolio: **https://www.nitishmatiyara.space**  
 - 📫 Reach me: **matiyaranitish@gmail.com**
 
 ---
